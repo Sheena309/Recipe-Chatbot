@@ -104,7 +104,7 @@ ROUGE-L measures the longest common subsequence between predicted and reference 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/indian-veg-recipe-chatbot.git
+git clone https://github.com/Sheena309/indian-veg-recipe-chatbot.git
 cd indian-veg-recipe-chatbot
 
 # 2. Install dependencies
@@ -163,5 +163,5 @@ rouge-score
 ## Author
 
 **Sheena Munjal**  
-[GitHub Profile](https://github.com/YOUR_USERNAME)
+[GitHub Profile](https://github.com/Sheena309)
 
