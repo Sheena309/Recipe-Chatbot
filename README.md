@@ -112,6 +112,11 @@ pip install -r requirements.txt
 
 # 3. Run the app
 streamlit run app.py
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the app
+streamlit run app.py
 ```
 
 > Make sure `recipes_clean.csv` is in the same folder as `app.py`.
@@ -133,7 +138,7 @@ rouge-score
 
 ---
 
-## 💬 Example Queries
+## Example Queries
 
 | Query | Mode Triggered |
 |---|---|
